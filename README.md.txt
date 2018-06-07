@@ -1,0 +1,1 @@
+Just made this to see what i could do with loops, I commented our my first attempt just to show my progress
